@@ -1,12 +1,8 @@
 ---
 layout: page
 title: About
-subtitle: Just who the hell you think I am?
+subtitle: Eight Arms of Satisfaction
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Kraken Design is a graphic design company based in Olympia, Washington. Working on a spectrum of projects ranging from print (graphic design, unique and innovative business cards and stationery) and digital (website design and motion graphics).
