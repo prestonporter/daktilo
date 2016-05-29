@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to Jekyll!"
 subtitle: "Feel home!"
-date: {}
+date:   2015-09-06 15:12:45
 categories: 
   - design
   - tool

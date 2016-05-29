@@ -2,7 +2,7 @@
 layout: post
 title: Sample post from Daktilo
 subtitle: "What you can do with it!"
-date: {}
+date:   2015-09-08 15:12:45
 categories: 
   - tool
 published: false
